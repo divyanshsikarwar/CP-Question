@@ -1,5 +1,5 @@
 # CP-Question
-# I am stuck at this Question Please help me i have coded something but its not time efficient, any sort of help is appreciable.
+# I am stuck at this Question, i have coded something but its not time efficient, any sort of help is appreciable.
 
 Markov takes out his Snakes and Ladders game, stares at the board and wonders: "If I can always roll the die to whatever number I want, what would be the least number of rolls to reach the destination?"
 
