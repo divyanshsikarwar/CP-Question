@@ -67,4 +67,5 @@ For each testcase:
 3
 5
 
-Just create a folder named #the_lang you are submiting and submit your ans
+# Just add your file in respective lang or edit my solution.
+Thankyou.
